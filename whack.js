@@ -92,19 +92,7 @@ const decreaseTime = setInterval(timer, 1000);
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+//outdated code
 
 // 	function removeMole(){
 // 		square.forEach(className => {
