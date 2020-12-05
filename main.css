@@ -1,0 +1,47 @@
+
+		html{
+			background-image: url(images/img6.jpg);
+			background-size: cover;
+			background-repeat: no-repeat;
+			background-position: center center;
+			background-attachment: fixed;
+		}
+
+		body{
+			box-sizing: border-box;
+			padding: 0px;
+			margin: 0px;
+			 
+		}
+
+		#container{
+			display: flex;
+			flex-direction: column;
+			justify-content: center;
+			align-items: center;
+
+		}
+
+		#grid{
+			display: flex;
+			flex-wrap: wrap;
+			margin: auto;
+			width: 620px;
+			
+		}
+
+		#grid .square{
+			width: 170px;
+			height: 130px;
+			border: solid #00ff3b;
+		}
+
+		.mole{
+			background: url('images/img9.jpg');
+			background-size: contain;
+		}
+
+.disabled{
+
+	display: none;
+}

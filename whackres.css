@@ -1,0 +1,22 @@
+@media screen  and (max-width: 360px){
+	body{
+		box-sizing: border-box;
+	}
+
+	#grid{
+			display: flex;
+			flex-direction: column;
+			max-height: 400px;
+			max-width: 300px;
+		
+		}
+
+	.square{
+			flex: 0 1 74px;
+			max-width: 150px;
+
+		
+
+		}
+	
+}
