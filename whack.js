@@ -24,18 +24,16 @@ function randomiseImg(){
 // event
 square.forEach(item =>{
 	item.addEventListener('click', ()=>{
-	
-// const box_id = (e.target.id);
-// if (box_id == randomposition_id) {
-// 	result.textContent =  ++outPut;
-// }
 		
-		// OR
-
+	// const box_id = (e.target.id);
+	// if (box_id == randomposition_id) {
+	// 	result.textContent =  ++outPut;
+	// }
+			
+	// OR
 		if (item.id == randomposition_id) {
 			result.textContent =  ++outPut;
 		}
-
 	})
 })
 	
@@ -63,7 +61,7 @@ timer()
 const decreaseTime = setInterval(timer, 1000);
 	
 
-
+//end of code
 
 	
 
