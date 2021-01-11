@@ -7,4 +7,4 @@ The object of the game is to hit a random image moving at a certain speed, there
 ```
 
 ## Link:
-[Link to the project](whack-a-mole123.netlify.app)
+[Link to the project](https://whack-a-mole123.netlify.app/)
