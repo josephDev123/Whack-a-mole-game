@@ -9,3 +9,9 @@ The object of the game is to hit a random image moving at a certain speed, there
 ## Link:
 [Link to the project](https://whack-a-mole123.netlify.app/)
 
+## Author
+
+Uzuegbu, Joseph
+
+[Linkedin](https://www.linkedin.com/in/joseph-uzuegbu/)
+[Twitter](https://twitter.com/JosephUzuegbu)
